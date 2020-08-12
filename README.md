@@ -1,5 +1,5 @@
 # Dynamic-investment-model-based-on-machine-learning
-《基于机器学习的动态投资模型》——本人在2020第三届中青杯全国大学生数学建模赛B题本科生组全国一等奖的解决方案及过程代码，此次同样是全程独立完成所有内容，但这次并没挂老师、同学名字，因为报名费比较少，觉得没必要另找同学分摊或是挂老师名字报销（其实也是被白嫖怕了....）。
+《基于机器学习的动态投资模型》——本人在2020第三届中青杯全国大学生数学建模赛B题本科生组全国一等奖的解决方案及过程代码，此次同样是全程独立完成所有内容。
 *"Dynamic investment model based on machine learning"-my solution and process code in the undergraduate group of the 3rd China Youth Cup National University Mathematical Modeling Competition in 2020 (**National first prize**)*
 
 # 解决方案 Solution
