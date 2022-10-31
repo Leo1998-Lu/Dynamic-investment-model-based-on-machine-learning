@@ -22,11 +22,5 @@
 
 # 结果 Result
 没白费自己熬夜三天三夜做完，拿了一等，还给了个奖章就很舒服:)
-
-![images](https://github.com/Leo1998-Lu/Dynamic-investment-model-based-on-machine-learning/blob/master/pic/National%20First%20Prize.png)
-
-![images](https://github.com/Leo1998-Lu/Dynamic-investment-model-based-on-machine-learning/blob/master/pic/National%20First%20Prize%20Medal.jpg)
-
 **比赛结果公示网址**http://zqb.52jingsai.com/price1.php
 
-![images](https://github.com/Leo1998-Lu/Dynamic-investment-model-based-on-machine-learning/blob/master/pic/list.png)
